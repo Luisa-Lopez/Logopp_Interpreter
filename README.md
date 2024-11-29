@@ -138,6 +138,8 @@ Este proyecto ha sido desarrollado por:
    - Juan Diego R.B.
    - Juan Camilo Marín H.
    - Luisa Fernanda López
+
+     
 Agradecimientos especiales a *Mochi*. El proyecto se encuentra bajo la **Licencia MIT**.
 
 ---
